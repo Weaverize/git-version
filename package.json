@@ -1,0 +1,11 @@
+{
+  "name": "git-version",
+  "version": "1.0.0",
+  "description": "Module NodeJS pour récupérer le numéro de version par Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rémi AUGUSTE",
+  "license": "UNLICENCED"
+}

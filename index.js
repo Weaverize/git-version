@@ -29,7 +29,7 @@ function getVersion(callback)
 {
 	getBranch(function(err, branch) {
 		getCommit(branch, function(err, commit){
-			callback(null, branch.split("/")[2] + "@" + commit);
+			callback(branch.split("/")[2] + "@" + commit);
 		});
 	});
 }

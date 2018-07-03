@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rémi AUGUSTE",
-  "license": "UNLICENCED"
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Weaverize",
+    "email": "dev@weaverize.com",
+    "url": "http://pro.weaverize.com"
+  },
+  "private": true
 }
